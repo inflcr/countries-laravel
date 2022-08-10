@@ -32,14 +32,8 @@
 		"type": "vcs",
 		"no-api": true,
 		"url": "https://github.com/inflcr/coollection"
-	},
-	{
-		"type": "vcs",
-		"no-api": true,
-		"url": "https://github.com/inflcr/collection"
-	}
+	}    
     ],
-
     "require": {
         "php": ">=7.0",
         "laravel/framework": ">=5.3",
