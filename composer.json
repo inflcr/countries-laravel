@@ -32,13 +32,33 @@
 		"type": "vcs",
 		"no-api": true,
 		"url": "https://github.com/inflcr/coollection"
-	}    
+	},
+	{
+		"type": "vcs",
+		"no-api": true,
+		"url": "https://github.com/inflcr/ia-str"
+	},
+	{
+		"type": "vcs",
+		"no-api": true,
+		"url": "https://github.com/inflcr/ia-arr"
+	},
+	{
+		"type": "vcs",
+		"no-api": true,
+		"url": "https://github.com/inflcr/coollection"
+	},
+	{
+		"type": "vcs",
+		"no-api": true,
+		"url": "https://github.com/inflcr/ia-collection"
+	}
     ],
     "require": {
         "php": ">=7.0",
         "laravel/framework": ">=5.3",
         "psr/simple-cache": ">=1.0",
-        "pragmarx/coollection": "dev-master",
+        "pragmarx/coollection": "0.8.1",
         "pragmarx/countries": ">=0.5.8"
     },
 
